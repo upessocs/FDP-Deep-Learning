@@ -1037,8 +1037,13 @@ function parselist(
     append(target, "", "over");
     append(
       target,
-      gen(div, "appmain", gen(h1, "", "File Browser", "heading"), "appmain"),
+      gen(div, "appmain", gen(h1, "", "Deep Learning Workshop", "heading"), "appmain"),
       "over"
+    );
+
+    append(
+      appmain,
+      gen(p, "", "Welcome everyone to the Deep Learning Workshop held during 15th-19th July !!","container")
     );
 
     append(appmain, gen(div, "directoryGrid", "", "dirGrid"));

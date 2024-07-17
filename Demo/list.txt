@@ -1,5 +1,0 @@
-./
-./Ipynb
-./Pdf
-./Markdown
-./List
