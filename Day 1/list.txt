@@ -1,5 +1,5 @@
 ./
-./Day 1 Morning.md
+./Day 1.md
 ./Day 1 Evening Neural_network_Basics.pdf
 ./Lab1_NN.ipynb
 ./Lab2_NN.ipynb
