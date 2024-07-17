@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #find ./ -name "*" -type d > list.txt
 find ./ -maxdepth 1 -name "*" -type d >list.txt
